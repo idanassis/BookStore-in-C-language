@@ -1,0 +1,37 @@
+﻿  BooksHashTable.c
+C:\Users\iassis\source\repos\BookStore_HiT\BooksHashTable.c(26,35): warning C4028: formal parameter 1 different from declaration
+C:\Users\iassis\source\repos\BookStore_HiT\BooksHashTable.c(37,47): warning C4013: 'abs' undefined; assuming extern returning int
+C:\Users\iassis\source\repos\BookStore_HiT\BooksHashTable.c(38,30): warning C4013: 'malloc' undefined; assuming extern returning int
+C:\Users\iassis\source\repos\BookStore_HiT\BooksHashTable.c(45,1): warning C4047: 'initializing': 'BooksHashTable *' differs in levels of indirection from 'int'
+C:\Users\iassis\source\repos\BookStore_HiT\BooksHashTable.c(64,1): warning C4047: 'initializing': 'BookNode *' differs in levels of indirection from 'int'
+C:\Users\iassis\source\repos\BookStore_HiT\BooksHashTable.c(102,21): warning C4013: 'free' undefined; assuming extern returning int
+C:\Users\iassis\source\repos\BookStore_HiT\BooksHashTable.c(92,1): warning C4047: 'initializing': 'Book *' differs in levels of indirection from 'int'
+C:\Users\iassis\source\repos\BookStore_HiT\BooksHashTable.c(118,1): warning C4047: 'initializing': 'Book *' differs in levels of indirection from 'int'
+C:\Users\iassis\source\repos\BookStore_HiT\BooksHashTable.c(157,1): warning C4047: 'initializing': 'Book *' differs in levels of indirection from 'int'
+C:\Users\iassis\source\repos\BookStore_HiT\BooksHashTable.c(174,19): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\iassis\source\repos\BookStore_HiT\BooksHashTable.c(299,24): warning C4013: 'atoi' undefined; assuming extern returning int
+C:\Users\iassis\source\repos\BookStore_HiT\BooksHashTable.c(318,31): warning C4013: 'strstr' undefined; assuming extern returning int
+C:\Users\iassis\source\repos\BookStore_HiT\BooksHashTable.c(318,75): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+C:\Users\iassis\source\repos\BookStore_HiT\BooksHashTable.c(323,77): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+C:\Users\iassis\source\repos\BookStore_HiT\BooksHashTable.c(294,9): warning C4101: 'searchPrice': unreferenced local variable
+C:\Users\iassis\source\repos\BookStore_HiT\BooksHashTable.c(385,55): warning C4028: formal parameter 3 different from declaration
+C:\Users\iassis\source\repos\BookStore_HiT\BooksHashTable.c(385,77): warning C4028: formal parameter 4 different from declaration
+C:\Users\iassis\source\repos\BookStore_HiT\BooksHashTable.c(496,66): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+C:\Users\iassis\source\repos\BookStore_HiT\BooksHashTable.c(496,114): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+  Menu.c
+C:\Users\iassis\source\repos\BookStore_HiT\Menu.c(48,12): warning C4013: 'logAction' undefined; assuming extern returning int
+C:\Users\iassis\source\repos\BookStore_HiT\Menu.c(58,7): warning C4013: 'getch' undefined; assuming extern returning int
+C:\Users\iassis\source\repos\BookStore_HiT\Menu.c(237,48): warning C4133: 'function': incompatible types - from 'Employee *' to 'EmployeeNode *'
+C:\Users\iassis\source\repos\BookStore_HiT\Menu.c(243,47): warning C4133: 'function': incompatible types - from 'Employee *' to 'EmployeeNode *'
+C:\Users\iassis\source\repos\BookStore_HiT\Menu.c(248,47): warning C4133: 'function': incompatible types - from 'Employee *' to 'EmployeeNode *'
+C:\Users\iassis\source\repos\BookStore_HiT\Menu.c(260,48): warning C4133: 'function': incompatible types - from 'Employee *' to 'EmployeeNode *'
+C:\Users\iassis\source\repos\BookStore_HiT\Menu.c(309,44): warning C4133: 'function': incompatible types - from 'Employee **' to 'EmployeeNode **'
+C:\Users\iassis\source\repos\BookStore_HiT\Menu.c(912,32): warning C4133: 'function': incompatible types - from 'EmployeeNode **' to 'Employee **'
+  OrderItemNode.c
+C:\Users\iassis\source\repos\BookStore_HiT\OrderItemNode.c(13,29): warning C4013: 'malloc' undefined; assuming extern returning int
+C:\Users\iassis\source\repos\BookStore_HiT\OrderItemNode.c(20,13): warning C4013: 'free' undefined; assuming extern returning int
+C:\Users\iassis\source\repos\BookStore_HiT\OrderItemNode.c(13,1): warning C4047: 'initializing': 'OrderItem *' differs in levels of indirection from 'int'
+  OrderListNode.c
+C:\Users\iassis\source\repos\BookStore_HiT\OrderListNode.c(14,22): warning C4013: 'logAction' undefined; assuming extern returning int
+  Generating Code...
+  BookStore_HiT.vcxproj -> C:\Users\iassis\source\repos\BookStore_HiT\Debug\BookStore_HiT.exe
